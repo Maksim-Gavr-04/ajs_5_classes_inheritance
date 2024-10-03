@@ -1,5 +1,7 @@
 # Классы, наследование
 
+[![Build status](https://ci.appveyor.com/api/projects/status/8h1ec5vh2wqogyas?svg=true)](https://ci.appveyor.com/project/Maksim-Gavr-04/ajs-5-classes-inheritance)
+
 ## Легенда
 
 Вы решили перейти на классы и реализовать иерархию, выделив в качестве базового класса класс `Character`, а для остальных персонажей 
